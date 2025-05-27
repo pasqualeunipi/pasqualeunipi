@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Pasquale Ferrante!
 
-🚀 Sono un Full Stack Developer** in continua crescita. Ho deciso di documentare il mio percorso di apprendimento costruendo progetti reali per migliorare le mie competenze tecniche e pratiche.
+🚀 Sono un Full Stack Developer in continua crescita. Ho deciso di documentare il mio percorso di apprendimento costruendo progetti reali per migliorare le mie competenze tecniche e pratiche.
 
 ---
 
