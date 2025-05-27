@@ -2,22 +2,6 @@
 
 🚀 Sono un Full Stack Developer in continua crescita. Ho deciso di documentare il mio percorso di apprendimento costruendo progetti reali per migliorare le mie competenze tecniche e pratiche.
 
----
-
-## 🛠️ Tecnologie e Strumenti
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Flutter, Bootstrap, Tailwind CSS  
-- **Backend:** Django (Python), Node.js, Express.js, PHP  
-- **Database:** SQL, PostgreSQL, MongoDB  
-- **Linguaggi & formati:** Python, JavaScript, PHP, Dart, SQL, XML, JSON, XSLT  
-- **CMS & Framework:** Magento 1.9 / 2.4, Shopify, WordPress, Django  
-- **Dev tools & collaborazione:** Git, GitHub, VS Code, Postman, Jira  
-- **Design & grafica:** Photoshop, Illustrator, Figma, Canva, Rhino 3D, AutoCAD  
-- **Project management:** Agile, Design Thinking, Business Model Canvas  
-- **Data & analytics:** Tableau, Power BI, Google Analytics, Data Studio  
-- **Digital marketing:** Google Ads, SEOZoom, SEMrush
-
----
 ## 🛠️ Tecnologie e Strumenti
 
 ### 🌐 Frontend
