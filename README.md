@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologie e Strumenti
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Angular, Flutter, Bootstrap, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Flutter, Bootstrap, Tailwind CSS  
 - **Backend:** Django (Python), Node.js, Express.js, PHP  
 - **Database:** SQL, PostgreSQL, MongoDB  
 - **Linguaggi & formati:** Python, JavaScript, PHP, Dart, SQL, XML, JSON, XSLT  
@@ -68,8 +68,7 @@
 ## 📂 Progetti in corso
 
 - 🚀 [Portfolio Web](https://github.com/pasqualeunipi/portfolio) – Sito personale responsive
-- ✅ [To-Do List App](https://github.com/pasqualeunipi/todo-app) – App semplice ma completa in React
-- 📡 [API con Node.js](https://github.com/pasqualeunipi/api-project) – API RESTful con Express e MongoDB
+
 
 ---
 
